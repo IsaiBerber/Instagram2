@@ -1,0 +1,38 @@
+.post-header {
+    display: flex;
+    justify-content: space-between;
+
+}
+.post-icons {
+    display: flex;
+}
+.post { 
+    max-width: 400px;
+    margin: auto;
+}
+.html-icon {
+    font-size: 40px;
+    margin: auto;
+}
+.descripcion {
+    margin-right: 270px;
+}
+.lines-icon {
+    margin: auto;
+    font-size: 20px;
+}
+.corazon {
+    font-size: 25px;
+    margin-right: 5px;
+}
+.chat {
+    font-size: 25px;
+    margin-right: 5px;
+}
+.plane {
+    font-size: 25px;
+    margin-right: 290px;
+}
+.bookmark {
+    font-size: 25px;
+}
