@@ -40,3 +40,7 @@
 body {
     background-color: black;
 }
+p {
+    margin-left: 2%;
+    padding-top: 1%;
+}
