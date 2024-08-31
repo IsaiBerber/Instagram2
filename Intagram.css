@@ -9,6 +9,7 @@
 .post { 
     max-width: 400px;
     margin: auto;
+    background-color: white;
 }
 .html-icon {
     font-size: 40px;
@@ -35,4 +36,7 @@
 }
 .bookmark {
     font-size: 25px;
+}
+body {
+    background-color: black;
 }
