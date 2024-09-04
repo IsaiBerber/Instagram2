@@ -1,7 +1,6 @@
 .post-header {
     display: flex;
     justify-content: space-between;
-
 }
 .post-icons {
     display: flex;
@@ -20,11 +19,13 @@
 }
 .lines-icon {
     margin: auto;
-    font-size: 20px;
+    font-size: 30px;
+    margin-right: 2%;
 }
 .corazon {
     font-size: 25px;
-    margin-right: 5px;
+    margin-right: 2%;
+    margin-left: 3%;
 }
 .chat {
     font-size: 25px;
@@ -32,7 +33,7 @@
 }
 .plane {
     font-size: 25px;
-    margin-right: 290px;
+    margin-right: 270px;
 }
 .bookmark {
     font-size: 25px;
